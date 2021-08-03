@@ -1,0 +1,11 @@
+PNR: DB_202195_114
+Train no: 1002
+Train Name: Shatabdi Express
+From: Delhi
+To: Banglore
+Travel Date: 2021-09-05
+Passengers:
+Name	  Age	Gender	Fare
+Kunal	70	M	1500
+
+Total Fare: 1500.0
